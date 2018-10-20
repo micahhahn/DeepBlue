@@ -22,6 +22,18 @@ description:         Please see the README on GitHub at <https://github.com/gith
 dependencies:
 - base >= 4.7 && < 5
 - JuicyPixels
+- accelerate
+- servant
+- servant-server
+- servant-lucid
+- lucid
+- wai
+- warp
+- servant-JuicyPixels
+- text
+- parallel
+- array
+- hashable
 
 library:
   source-dirs: src
